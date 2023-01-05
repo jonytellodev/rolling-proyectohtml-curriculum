@@ -1,0 +1,46 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,200;0,400;0,600;1,200;1,400;1,600&display=swap");
+
+/*body {
+  font-family: "Montserrat", sans-serif;
+  margin: 1%;
+}
+
+h1.titulo-CV {
+  color: rgb(116, 21, 145);
+}
+
+h3 {
+  font-size: 20px;
+  color: rgb(116, 21, 145);
+}
+
+h4 {
+  font-size: 16px;
+  color: rgb(116, 21, 145);
+}
+
+ul li {
+  list-style: none;
+  padding: 1%;
+}*/
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+img {
+  border-radius: 40px;
+}
+
+.contenedor-datosperso {
+  width: 100%;
+}
+
+.contenedor-columnas {
+  display: flex;
+  gap: 20px;
+}
+
+section {
+  width: 50%;
+}
